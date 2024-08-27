@@ -1,6 +1,6 @@
 layout: page
-title: "Previous Editions"
-permalink: /Previous-Editions
+title: "Inflame Journal"
+permalink: /Inflame-Journal
 
 
 

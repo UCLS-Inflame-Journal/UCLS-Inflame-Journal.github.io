@@ -1300,6 +1300,7 @@ input, select, textarea {
 
 			#header .logo .icon:before {
 				font-size: 2rem;
+				margin-top: 0.5rem; /* Moves the icon down */
 			}
 
 		#header .content {
@@ -1453,7 +1454,7 @@ input, select, textarea {
 
 				#header .logo .icon:before {
 					font-size: 1.75rem;
-					transform: translateY(0.5rem); /* Adjust this value as needed */
+					margin-top: 0.5rem; /* Moves the icon down */
 				}
 
 			#header .content .inner {
